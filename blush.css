@@ -1,0 +1,18 @@
+body {
+  background: rgb(106,100,161);
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: left;
+}
